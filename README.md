@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Berk.
-A passionate iOS developer from Turkey.
+A passionate iOS Developer from Turkey.
 
 <p align="left"> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
